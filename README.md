@@ -1,0 +1,1 @@
+Welcome to my Naive Bayes repository! This project contains practical examples, notes, and applications of the Naive Bayes algorithm — a powerful probabilistic classifier based on Bayes' Theorem, widely used in natural language processing, spam filtering, and classification tasks.
